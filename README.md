@@ -12,3 +12,6 @@ https://leanpub.com/powershell101
 
 ## free script samples
 http://aka.ms/script-samples
+
+## Microsoft 365 & PowerShell
+https://aka.ms/pnp/powershell
