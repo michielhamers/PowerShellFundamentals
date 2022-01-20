@@ -9,3 +9,6 @@ http://aka.ms/learnpowershell
 
 ## free ebook
 https://leanpub.com/powershell101
+
+## free script samples
+http://aka.ms/script-samples
